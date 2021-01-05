@@ -1,1 +1,2 @@
-## mofidied slock to lock virtual consoles notice! needs dependency: physlock
+# mofidied slock to lock virtual consoles.
+### Notice needs dependecy: physlock
